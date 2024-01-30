@@ -1,4 +1,4 @@
-ole -g='C:/Users/spiderman/Desktop/ole-demo'
+ole -g='D:\ole-demo'
 cd publish
 git init
 git remote add origin git@github.com:FuShaoLei/ole-demo.git
